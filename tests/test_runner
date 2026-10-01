@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Run tests for the cfg_builder module
+make check-cfg_builder
+
+# Run tests for the static_analyzer module
+make check-static_analyzer
+
+# Run tests for the report_generator module
+make check-report_generator

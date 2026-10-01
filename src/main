@@ -1,0 +1,4 @@
+#!/bin/sh
+# This is a placeholder for the main entrypoint script.
+# For simplicity, this shell script is not directly executable and will just invoke the C program.
+./static-analysis-detector
